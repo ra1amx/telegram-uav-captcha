@@ -1,4 +1,4 @@
-# Telegram captcha bot
+# Telegram captcha bot for yande.cloud functions
 
 <img width="399" alt="image" src="https://github.com/kvrvgixzis/telegram-dice-captcha/assets/34510611/3216d995-7697-4581-b09e-f86c9a91b8ed">
 
