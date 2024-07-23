@@ -8,30 +8,11 @@ Bot takes away permissions to write messages from new users, rolls a die and off
 
 ## 1. Install dependencies
 
-```bash
-# create virtual environment
-python3 -m venv venv
+Настраиваем яндекс.функции по инструкции https://habr.com/ru/articles/550456/
 
-# enable virtual environment
-source venv/bin/activate 
+## 2. API_TOKEN прописываем на стадии создания яндекс.функции 
 
-# install dependencies
-pip3 install -r ./requirements.txt
-```
-
-## 2. Create `.env` file
-
-Copy `example.env` to `.env` file and put API_KEY from your bot in https://t.me/BotFather
-
-```bash
-# ./.env
-API_TOKEN=https://t.me/BotFather
-```
-
-## 3. Run bot
-```bash
-python3 main.py
-```
+## 3. Запускаем согласно инструкции https://habr.com/ru/articles/550456/
 
 ## 4. Add bot to your chat as admin
 
